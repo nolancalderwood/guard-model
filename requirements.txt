@@ -6,4 +6,11 @@ psycopg2-binary
 sqlalchemy
 tqdm
 requests
-Shapely
+shapely
+fiona
+pyproj
+rtree
+pandas
+numpy
+matplotlib
+certifi
