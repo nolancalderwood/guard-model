@@ -1,0 +1,9 @@
+streamlit
+osmnx
+networkx
+geopandas
+psycopg2-binary
+sqlalchemy
+tqdm
+requests
+Shapely
